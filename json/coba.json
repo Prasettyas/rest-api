@@ -1,0 +1,16 @@
+[
+    {
+        "nama" : "Prasetya Ningtyas",
+        "umur" : 20,
+        "nrp" : "173040087",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" :{
+            "pembimbing1" : "Leony Lidya",
+            "pembimbing2" : "Sandhika Galih"
+        }
+    }
+]
